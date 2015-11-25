@@ -1,0 +1,28 @@
+name: blurredvision
+favicon: null
+layout_spectrum: 0.22869336348958313
+typography_spectrum: 0.3021443474572152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8745959082152694
+  lightness: 0.1930704500991851
+  saturation: 0.7838538999203593
+  rhythmicContrast: 0.9972219343762845
+purpose: []
